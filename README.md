@@ -5,7 +5,7 @@
 1. Aller dans le ``index.html``
 2. Remplacer ``SERVER NAME`` par le nom de votre serveur.
 3. Remplacer ``discord.gg/REMPLACE`` par le lien de votre discord.
-4. Vous pouvez remplacer la musique en téléchargeant sur votre navigateur une musique youtube en la convertissant en .mp3 
+4. Vous pouvez remplacer la musique en téléchargeant sur votre navigateur une musique youtube en la convertissant en **.mp3**
    Puis, insérez la nouvelle musique dans le dossier en vous assurant que son nom sois ``lalala.mp3``.
 
 # [Tuto EN] 
