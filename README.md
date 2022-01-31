@@ -8,7 +8,8 @@
 4. Vous pouvez remplacer la musique en téléchargeant sur votre navigateur une musique youtube en la convertissant en **.mp3**.
    Puis, insérez la nouvelle musique dans le dossier en vous assurant que son nom sois ``lalala.mp3``.
    
-# Discord Support : https://discord.gg/j4ywQ5puXU
+-> Discord Support : https://discord.gg/j4ywQ5puXU
+-> Vidéo Installation : https://www.youtube.com/watch?v=mtSip78Ezs4&t=15s
 
 # [Tuto EN] 
 
@@ -18,4 +19,4 @@
 4. You can replace the music by downloading youtube music to your browser by converting it to **.mp3**.
    Then, insert the new music into the folder, making sure that its name is ``lalala.mp3``.
 
-# Discord Support : https://discord.gg/j4ywQ5puXU
+-> Discord Support : https://discord.gg/j4ywQ5puXU
